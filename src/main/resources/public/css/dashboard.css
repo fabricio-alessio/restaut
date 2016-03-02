@@ -1,0 +1,63 @@
+#dashboard h4 {
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  font-size: 20px;
+  margin: 25px 0 0 0;
+  color: #3e3e3e;
+}
+
+#dashboard {
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+}
+
+#dashboard-left {
+	width: 500px;
+	float: left;
+}
+
+#dashboard-left p {
+	margin: 15px;
+}
+
+#dashboard-left-content {
+	margin: 15px;
+}
+
+#dashboard-right {
+	float: left;
+}
+
+#dashboard-right p {
+	margin: 15px;
+}
+
+#dashboard-right-content {
+	margin: 15px;
+}
+
+#dashboard img {
+	width: 17px;
+    height: 17px;    
+}
+
+#dashboard a img
+{
+  border: 0 none;
+}
+
+#dashboard .image-link
+{
+  text-decoration: none;
+}
+
+#item-left {
+	width: 70px;
+	float: left;
+}
+
+#item-right {
+}
+
+#item-break {
+	clear: both;
+}
